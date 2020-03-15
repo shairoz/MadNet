@@ -1,5 +1,6 @@
 # MadNet
-An implementation of the MadNet based on ResNet
+An implementation of the MadNet based on ResNet.
+"MadNet: Using a MAD Optimization for Detecting Adversarial Attack" (arxiv)
 
 ## Requirements
 - tensorflow == 1.14.0
